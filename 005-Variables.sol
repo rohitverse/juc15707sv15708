@@ -14,6 +14,7 @@ contract Variables {
     function doSomething() public pure {
         // Local variables are not saved to the blockchain.
         uint i = 456;
+        i += 1;
     }
 
     // Here are some global variables
