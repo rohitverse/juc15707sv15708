@@ -1,5 +1,5 @@
 
-# Solidity Programs
+# Solidity Practice Programs
 
 Hello World
 
